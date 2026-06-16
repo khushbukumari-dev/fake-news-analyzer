@@ -4,7 +4,8 @@ An AI-powered web application that detects whether a news article is **Fake** or
 
 ## 🚀 Live Demo
 
-(Add Streamlit deployment link here)
+https://fake-news-analyzer-ightecqph3ppluvhmpntgw.streamlit.app/
+
 
 ## 📌 Project Overview
 
